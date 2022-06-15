@@ -17,7 +17,7 @@ library.add(faEdit, faPlus, faBars);
 import plausible from "./plugins/plausible";
 
 const plausibleOptions = {
-  domain: "www.pützchens-getränkecenter.de",
+  domain: "xn--ptzchens-getrnkecenter-d5b77c.de",
   apiHost: "https://tracking.jmartz.gmbh",
   hashMode: false,
   trackLocalhost: false,
